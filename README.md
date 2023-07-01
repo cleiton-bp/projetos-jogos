@@ -1,24 +1,21 @@
-# Minecraft Game
+# **Repositório de Jogos** 
 
-![Minecraft Logo](img/minecraft.png)
+Bem-vindo ao repositório de jogos! Aqui você encontrará uma coleção de jogos que desenvolvi, organizados em diferentes branches. Embora este README não contenha imagens, cada jogo terá sua própria documentação e capturas de tela dentro de suas respectivas branches.
 
-## **Descrição**
+## **Jogos Disponíveis**
 
- - Um jogo inspirado no Minecraft, onde os jogadores podem explorar um mundo virtual em 3D, construir estruturas, minerar recursos e interagir com o ambiente.
+ - Aqui está uma lista dos jogos atualmente disponíveis neste repositório:
 
-## **Contribuições e Melhorias**
+<!-- 1. **[Nome do Jogo 1](link para a branch)**: descrição do primeiro jogo. -->
 
- - Este jogo está em constante desenvolvimento e estamos abertos a   contribuições e melhorias da comunidade. Se você é um desenvolvedor interessado em participar ou deseja fazer melhorias no código, fique à vontade para colaborar.
+ - Sinta-se à vontade para explorar cada branch para obter mais informações sobre os jogos individuais. Dentro de cada branch, você encontrará instruções.
 
- - Sinta-se encorajado a fazer alterações no código existente, adicionar novos recursos e propor melhorias. Valorizamos a participação da comunidade para tornar o jogo ainda melhor.
+## **Contribuições**
 
-## **Visão Geral**
+ - Sinta-se à vontade para fazer um fork deste repositório caso queira contribuir com melhorias para os jogos existentes.
 
-- Este jogo foi desenvolvido utilizando as seguintes bibliotecas:
+## P**roblemas e Feedback**
 
-    - **Pygame**: Biblioteca de jogos em Python para criar a interface gráfica e lidar com eventos de entrada.
-    - **Numba**: Biblioteca de otimização de desempenho em Python para acelerar o processamento de dados.
-    - **NumPy**: Biblioteca para computação numérica em Python, utilizada para operações matemáticas e manipulação de arrays.
-    - **glm**: Biblioteca de matemática para gráficos em 3D, utilizada para manipulação de vetores e matrizes.
-    - **math**: Módulo nativo do Python para funções matemáticas.
-    - **ModernGL**: Biblioteca de ligação (binding) Python para OpenGL, usada para renderização gráfica em 3D.
+ - Se você encontrar algum problema ao jogar algum dos jogos, ou se tiver alguma dúvida, fique à vontade para abrir uma *issue* neste repositório. Também adoraria ouvir seu feedback sobre qualquer aspecto dos jogos. Sua contribuição é valiosa para melhorar a qualidade dos jogos e a experiência dos usuários.
+
+**Divirta-se jogando!**
